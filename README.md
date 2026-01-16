@@ -1,5 +1,3 @@
-
-
 ## 🖥️ Basic web design
 ## ⌨️ Basic knowledge of
 ### programming languages such
