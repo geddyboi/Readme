@@ -1,8 +1,8 @@
 
 
-# 🖥️ Basic web design
-# ⌨️ Basic knowledge of
-programming languages such
+## 🖥️ Basic web design
+## ⌨️ Basic knowledge of
+### programming languages such
 as PHP, HTML, and CSS.
   
 
